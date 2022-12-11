@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Pokemon
-subtitle: toute mes réalisations personnels sur pokemon
-cover-img: /assets/img/steelix3.1_Plan de travail 1.png
-thumbnail-img: /assets/img/steelix3.1_Plan de travail 1.png
+title: Utopie
+subtitle: Photomontage Utopie
+cover-img: /assets/img/boschet célestin oee utopie (de nuit).jpg
+thumbnail-img: /assets/img/boschet célestin oee utopie (de nuit).jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
