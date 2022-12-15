@@ -107,7 +107,7 @@ post_search: true
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "/assets/img/fond d'ecran.png"
+page-col: "/assets/img/planete 7.png"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -121,7 +121,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/fond d'ecran.png"
+page-img: "/assets/img/planete 7.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
