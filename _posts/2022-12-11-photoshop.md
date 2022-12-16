@@ -25,7 +25,7 @@ J'ai réalisé ce montage apres avoir réalisé ce pokemon en version réaliste.
 
 ![paysage](/assets/img/sac luigi mansion.png)
 
-j'ai réaliser les texture sur le sac d'un personnage de jeu video, luigi mansion, où la version flat design qui ma servit de support provien de Ziagy (https://www.instagram.com/_ziagy_/).
+j'ai réaliser les texture sur le sac d'un personnage de jeu video, luigi mansion, où la version flat design qui ma servit de support provient de Ziagy (https://www.instagram.com/_ziagy_/).
 
 ##  Réalisation de prototype de vêtement
 
