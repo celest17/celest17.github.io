@@ -21,6 +21,12 @@ J'ai réalisé ce paysage qui represente un lieu utopique qui me plaît.
 
 J'ai réalisé ce montage apres avoir réalisé ce pokemon en version réaliste.
 
+## Sac de jeu video 
+
+![paysage](/assets/img/sac luigi mansion.png)
+
+j'ai réaliser les texture sur le sac d'un personnage de jeu video, luigi mansion, où la version flat design qui ma servit de support provien de Ziagy (https://www.instagram.com/_ziagy_/).
+
 ##  Réalisation de prototype de vêtement
 
 ![paysage](/assets/img/costume 2.png)
@@ -45,8 +51,4 @@ J'ai réalisé ce montage de façon à ce qu'il ce rapproche le plus de ce que l
 
 J'ai réalisé ce montage en m'inpirant d'une peinture.
 
-## Sac de jeu video 
 
-![paysage](/assets/img/sac luigi mansion.png)
-
-j'ai réaliser les texture sur le sac d'un personnage de jeu video, luigi mansion, où la version flat design qui ma servit de support provien de Ziagy (https://www.instagram.com/_ziagy_/).
