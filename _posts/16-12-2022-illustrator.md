@@ -2,8 +2,8 @@
 layout: post
 title: Création illustrator
 subtitle: Voici mes réalisations fait sur illustrator
-cover-img: /assets/img/couverture illustrator2.png
-thumbnail-img: /assets/img/planete 7.png
+cover-img: /assets/img/couverture illustrator.png
+thumbnail-img: /assets/img/couverture illustrator2.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
