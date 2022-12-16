@@ -16,9 +16,8 @@ author: Célestin BOSCHET
 navbar-links:
   Me concernant: "aboutme"
   Resources:
-    - projet personnel: "https://www.projetpersonnel.com"
-    - projet scolaire: "https://www.projetscolaire.com/"
-    - projet scolaire: "https://www.projetscolaire.com/"
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
