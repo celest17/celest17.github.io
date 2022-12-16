@@ -5,7 +5,6 @@ subtitle: Voici mes réalisations fait sur illustrator
 cover-img: /assets/img/couverture illustrator.png
 thumbnail-img: /assets/img/couverture illustrator2.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
 ---
 # Paysage dans l'espace
 
@@ -29,14 +28,62 @@ J'ai réalisé ce paysage en voulant faire un paysage où l'on voit une planète
 
 J'ai réalisé ce paysage en voulant faire un paysage où l'on voit une planète dans un ciel etoilé où si on regarde bien on peut voir des constellations et des étoiles filante, j'ai donc réalisé des montagnes avec une grande et une petite planète en fond.
 
-## Paysage surréaliste d'une planete sous une pluie d'étoile filante
+## Paysage d'un phare en pleine nuit
+
+![paysage](/assets/img/lighthouse1_Plan de travail 1.png)
+
+J'ai réalisé ce paysage en m'inspirant d'une musique que j'aime bien.
+
+## Paysage d'une cascade
+
+![paysage](/assets/img/cascade3.png)
+
+J'ai réalisé ce paysage en m'inspirant d'une cascade.
+
+# Personnage en flat design
+
+## Batman
 
 ![paysage](/assets/img/batman2_batman.png)
-![paysage](/assets/img/lighthouse1_Plan de travail 1.png)
-![paysage](/assets/img/cascade3.png)
+
+J'ai réalisé ce personnage en utilisant du texte correspondant au héro afin de former on visage.
+
+# Pokémon
+
+Voici mes réalisations en flat design inpirer de Pokemon
+
+## Clamiral minimaliste
+
 ![paysage](/assets/img/clamiral minimaliste_Plan de travail 1.png)
-![paysage](/assets/img/clamiral v6_Plan de travail 1.png)
+
+J'ai réalisé ce pokemon appelé clamiral dans un style minimaliste où sa couleur principale se fond dans la couleur du fond.
+
+## Gigalith minimaliste
+
 ![paysage](/assets/img/gigalite.png)
-![paysage](/assets/img/kicklee1_Plan de travail 1.png)
+
+J'ai réalisé ce pokemon appelé Gigalith dans un style minimaliste où sa couleur principale se fond dans la couleur du fond.
+
+## Starter 
+
 ![paysage](/assets/img/mes starter eau.png)
+
+J'ai réalisé ces pokemons en minimaliste
+
+## Clamiral 
+
+![paysage](/assets/img/clamiral v6_Plan de travail 1.png)
+
+J'ai réalisé ce pokemon appelé clamiral dans un style détaillé dans un fond orageux
+
+## Kicklee 
+
+![paysage](/assets/img/kicklee1_Plan de travail 1.png)
+
+J'ai réalisé ce pokemon appelé kicklee dans un style détaillé dans un fond de montagne
+
+## Steelix 
+
 ![paysage](/assets/img/steelix3.1_Plan de travail 1.png)
+
+J'ai réalisé ce pokemon appelé Steelix dans un style détaillé dans un fond de montagne
